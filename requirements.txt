@@ -1,0 +1,9 @@
+streamlit
+langchain-community
+langchain
+faiss-cpu
+unstructured
+transformers
+sentence-transformers
+torch
+pickle5
