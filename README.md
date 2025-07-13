@@ -59,7 +59,7 @@ streamlit run main.py
 ## 📁 File Structure
 
 NewsInsightQA/
-├── app.py # Main Streamlit application
+├── main.py # Main Streamlit application
 ├── README.md # Project documentation
 ├── requirements.txt # Python dependencies
 ├── assets/ # Folder for images and static files
