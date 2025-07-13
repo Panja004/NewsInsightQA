@@ -69,7 +69,7 @@ streamlit run app.py
 
 After adding URLs (e.g., news articles), try asking:
 
-- Some questions related to thr articles.
+- Some questions related to the articles.
 
 ---
 
