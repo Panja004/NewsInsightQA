@@ -52,9 +52,8 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-## 📸 Screenshot
+![App Screenshot](assets/screenshot.png)
 
-![App Screenshot](assets/Screenshot 2025-07-12 at 19-52-26 Streamlit.png)
 
 ---
 
