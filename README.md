@@ -58,6 +58,7 @@ streamlit run main.py
 
 ## 📁 File Structure
 
+```bash
 NewsInsightQA/
 ├── main.py # Main Streamlit application
 ├── README.md # Project documentation
@@ -65,6 +66,7 @@ NewsInsightQA/
 ├── assets/ # Folder for images and static files
 │ └── screenshot.png # Screenshot used in README
 └── faiss_store_hf.pkl # Serialized FAISS vector store (auto-generated after processing)
+```
 
 ---
 
